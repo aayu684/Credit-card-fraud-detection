@@ -18,7 +18,7 @@ Evaluate results using metrics like Precision, Recall, F1-Score, and ROC-AUC.
 
 # Dataset
 
-Source: Kaggle Credit Card Fraud Detection Dataset
+Source: Kaggle Credit Card Fraud Detection Dataset 
 
 Records: 284,807 transactions
 
@@ -86,7 +86,6 @@ Recall	~85%
 F1-Score	~88%
 ROC-AUC	~0.99
 
-(Note: Actual values may vary depending on training parameters.)
 
 # Technologies Used
 
@@ -134,5 +133,6 @@ Deploy the model on AWS / Streamlit for live inference.
 # Author
 
 Aayushi soni.
-📧 [aayushisoni6295@gmail.com
+
+[aayushisoni6295@gmail.com
 ]
