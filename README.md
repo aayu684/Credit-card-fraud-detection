@@ -80,10 +80,15 @@ ROC-AUC Curve
 
 # Results
 Metric	Value
+
 Accuracy	~99.8%
+
 Precision	~92%
+
 Recall	~85%
+
 F1-Score	~88%
+
 ROC-AUC	~0.99
 
 
